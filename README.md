@@ -1,0 +1,2 @@
+# CubitRelease
+For cubit launcher.
